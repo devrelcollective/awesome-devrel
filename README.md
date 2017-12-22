@@ -16,6 +16,7 @@ community-sourced tools for the DevRel industry
   * [Video recording and live streaming](#video-recording-and-live-streaming)
   * [Form creation](#form-creation)
   * [Presentation engine](#presentation-engine)
+  * [Real time interactions](#real-time-interactions)
   * [Other](#other)
 * [Hardware](#hardware)
   * [Remote clickers/slide advancers](#remote-clickersslide-advancers)
@@ -79,6 +80,10 @@ software for Mac
 * [reveal.js](https://revealjs.com/#/): The HTML presentation framework
 * [slides.com](https://slides.com/): Make better presentations. Slides is a place for creating, presenting and sharing slide decks.
 * [gitpitch.com](https://gitpitch.com/): Create compelling slideshow presentations in no time using the tools you already know and love ~ Markdown + Git
+
+## Real time interactions
+
+* [kahoot.com](https://kahoot.com/): Game-based platform that makes learning awesome for millions of people all over the world. **Useful for real time surveys**
 
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/):Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
