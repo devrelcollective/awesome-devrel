@@ -5,7 +5,7 @@ community-sourced tools for the DevRel industry
 
 * [DevRel-tools](#devrel-tools)
   * [Community forums](#community-forums)
-  * [Static sites generator](#static-sites)
+  * [Static sites generator](#static-sites-generator)
   * [Podcasting](#podcasting)
   * [Workshop training](#workshop-training)
   * [Meeting scheduler](#meeting-scheduler)
@@ -31,6 +31,7 @@ community-sourced tools for the DevRel industry
 * [netlify.com](https://www.netlify.com/): Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.
 * [datocms.com](https://www.datocms.com/): DatoCMS is an API-based administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
 * [gohugo.io](https://gohugo.io/): Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+* [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
 
 ## Podcasting
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
@@ -65,7 +66,6 @@ community-sourced tools for the DevRel industry
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
 * [gifbrewery.com](http://gifbrewery.com/) (for Mac): Creating fine-crafted GIFs for Mac users worldwide.
-
 
 ## Video recording and live streaming
 * [obsproject.com](https://obsproject.com/): Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
