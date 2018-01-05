@@ -24,7 +24,8 @@ community-sourced tools for the DevRel industry
 
 ## Community forums
 * [lithium.com](https://www.lithium.com/): Lithium social media software provides on-demand, hosted forums, chats for businesses. Solve your social media marketing problems and learn more today!
-* [answerhub.com](http://www.dzonesoftware.com/): Developer Community Solutions
+* [answerhub.com](http://www.dzonesoftware.com/): Q&A Solution based on the idea of Stack Exchange
+* [discourse.org](https://www.discourse.org): Open-source, community-minded forum software
 
 
 ## Static sites generator
