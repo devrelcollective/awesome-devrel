@@ -98,3 +98,4 @@ software for Mac
 
 ## Other
 * [HooToo Wireless Travel Router](https://www.amazon.com/gp/product/B074LHG47K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=realitybreak&camp=1789&creative=9325&linkCode=as2&creativeASIN=B074LHG47K&linkId=65128f522b7130b4e421c0860a31fee0)
+* [RAVPower Wireless Travel Router](https://www.amazon.com/RAVPower-Wireless-Portable-Companion-Streamer/dp/B016ZWS9ZE)
