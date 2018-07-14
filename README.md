@@ -88,7 +88,8 @@ software for Mac
 * [kahoot.com](https://kahoot.com/): Game-based platform that makes learning awesome for millions of people all over the world. **Useful for real time surveys**
 
 ## Other
-* [earthclassmail.com](https://www.earthclassmail.com/):Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
+* [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
+* [EvMan](https://github.com/evmanhq/evman): An open-source tool for your team to manage events, from CfPs to participants. A hosted version is available via [evman.io](https://evman.io).
 
 # Hardware
 
