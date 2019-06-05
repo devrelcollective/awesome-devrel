@@ -18,7 +18,7 @@ community-sourced tools for the DevRel industry
   - [Form creation](#form-creation)
   - [Presentation engine](#presentation-engine)
   - [Real time interactions](#real-time-interactions)
-  - [CFPs](#cfps)
+  - [CFPs and Speaking Resources](#cfps-and-speaking-resources)
   - [Other](#other)
 - [Hardware](#hardware)
   - [Remote clickers/slide advancers](#remote-clickersslide-advancers)
@@ -90,7 +90,7 @@ software for Mac
 ## Real time interactions
 * [kahoot.com](https://kahoot.com/): Game-based platform that makes learning awesome for millions of people all over the world. **Useful for real time surveys**
 
-## CFPs
+## CFPs and Speaking Resources
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech), shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [CallingAllPapers](https://callingallpapers.com/): Open source aggregator that grabs conferences from several sources. They also have a free API.
 * [CFP Land](https://www.cfpland.com/): Sends a weekly newsletter of CFPs and Tweets them about a month before they’re due. Also has a [large, filterable list of open CFPs](https://www.cfpland.com/conferences/), and a blog full of [speaker stories](https://www.cfpland.com/blog/).
