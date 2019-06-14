@@ -26,7 +26,7 @@ community-sourced tools for the DevRel industry
 - [Travel Tools/Tricks/Hacks](#travel-tools)
   - [Luggage](#luggage)
   - [Backpacks](#backpacks)
-  - Tips & Tricks
+  - [Tips & Tricks](#tips--tricks)
   - [Other](#other-2)
 
 ## Community forums
