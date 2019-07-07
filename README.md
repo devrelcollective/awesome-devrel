@@ -47,6 +47,7 @@ community-sourced tools for the DevRel industry
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
+* [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free. 
 
 ## Meeting scheduler
 * [claralabs.com](https://claralabs.com/): Clara is your partner in doing great work - a virtual employee that schedules your meetings.
