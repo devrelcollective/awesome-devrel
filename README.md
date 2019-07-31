@@ -121,6 +121,7 @@ software for Mac
 
 # Travel Tools
 ## Luggage
+* [Osprey Porter 46](https://www.ospreyeurope.com/shop/eu_en/travel/porter-series): Works as a backpack style suit case, can easily fit clothes for an entire week when expanded while being able to compress for daily use (laptop, accessories).
 
 ## Backpacks
 
