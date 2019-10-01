@@ -95,6 +95,7 @@ software for Mac
 
 ## Real time interactions
 * [kahoot.com](https://kahoot.com/): Game-based platform that makes learning awesome for millions of people all over the world. **Useful for real time surveys**
+* [sli.do](https://sli.do/): A simple platform that enables live polling, crowdsourcing questions and brainstorming ideas.A mobile-friendly interface that lets participants join via a custom event-code
 
 ## CFPs and Speaking Resources
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech), shows both conferences coming soon as well as CFPs. They also have an email newsletter.
