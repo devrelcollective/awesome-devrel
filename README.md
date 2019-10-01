@@ -49,6 +49,7 @@ community-sourced tools for the DevRel industry
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
 * [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free. 
 * [Google Codelabs](https://github.com/googlecodelabs/tools): Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
+* [CodePen](https://codepen.io/): CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 
 ## Meeting scheduler
 * [claralabs.com](https://claralabs.com/): Clara is your partner in doing great work - a virtual employee that schedules your meetings.
@@ -73,6 +74,7 @@ community-sourced tools for the DevRel industry
 
 ## Product feedback
 * [NomNom](https://nomnom.it/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
+* [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
