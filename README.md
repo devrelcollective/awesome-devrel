@@ -126,8 +126,10 @@ software for Mac
 # Travel Tools
 ## Luggage
 * [Osprey Porter 46](https://www.ospreyeurope.com/shop/eu_en/travel/porter-series): Works as a backpack style suit case, can easily fit clothes for an entire week when expanded while being able to compress for daily use (laptop, accessories).
+* [Travelpro Maxlite 5 21"](https://www.ebags.com/product/travelpro/maxlite-5-21-expandable-carry-on-spinner/363078?productid=10688631): Great roller bag, which just seems to continue to take all of the stuff I want to throw in it.
 
 ## Backpacks
+* [REI RuckPack 28](https://www.rei.com/product/118790/rei-co-op-ruckpack-28-pack): Primarily would be a day pack, but works really well as a work backpack, with the ability to be used for a short 2-3 day trip as well. Only downside is if you have a long torso.
 
 ## Tips & Tricks
 
