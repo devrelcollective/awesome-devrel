@@ -95,6 +95,7 @@ software for Mac
 * [reveal.js](https://revealjs.com/#/): The HTML presentation framework
 * [slides.com](https://slides.com/): Make better presentations. Slides is a place for creating, presenting and sharing slide decks.
 * [gitpitch.com](https://gitpitch.com/): Create compelling slideshow presentations in no time using the tools you already know and love ~ Markdown + Git
+* [deckdeckgo.com](https://deckdeckgo.com/): Create presentations that work as standalone apps at any device, everywhere ([see example video](https://www.youtube.com/watch?v=3o3oGBTTRSs))
 
 ## Real time interactions
 * [kahoot.com](https://kahoot.com/): Game-based platform that makes learning awesome for millions of people all over the world. **Useful for real time surveys**
