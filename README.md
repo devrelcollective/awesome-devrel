@@ -1,6 +1,6 @@
 # Awesome DevRel [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Community-sourced tools for the DevRel industry. Throught to you by [The DevRel Collective](https://devrelcollective.fun/).
+Community-sourced tools for the DevRel industry. Brought to you by [The DevRel Collective](https://devrelcollective.fun/).
 
 # Table of Contents
 
