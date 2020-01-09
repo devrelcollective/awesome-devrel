@@ -1,9 +1,9 @@
-# DevRel-tools
-community-sourced tools for the DevRel industry
+# Awesome DevRel [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+Community-sourced tools for the DevRel industry. Brought to you by [The DevRel Collective](https://devrelcollective.fun/).
 
 # Table of Contents
 
-- [DevRel-tools](#devrel-tools)
 - [Table of Contents](#table-of-contents)
   - [Community forums](#community-forums)
   - [Static sites generator](#static-sites-generator)
