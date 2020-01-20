@@ -64,18 +64,21 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [apimatic.io](https://apimatic.io/): Developer Experience Platform for your Public/Private/Internal APIs
 * [slate](https://github.com/lord/slate): Beautiful static documentation for your API (slate example: [developer.tradegecko.com](http://developer.tradegecko.com/))
 * [readthedocs.org](https://readthedocs.org/): Create, host, and browse documentation.
-* [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [widdershins](https://github.com/Mermade/widdershins): OpenApi / Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown
 * [gitbook.com](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown
 * [raneto.com](http://raneto.com/): Markdown powered Knowledgebase for Nodejs
+* [docusaurus.io](https://v2.docusaurus.io/)
+* [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
 
 ## API documentation
+* [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 
 ## Product feedback
 * [NomNom](https://nomnom.it/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
 * [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
+* [Sarahah](https://sarahah.com/): Lets your developer communities, friends or coworkers come with anonymous, constructive feedback on *you*. Risk of trolls, chance for gold. 
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
@@ -113,6 +116,7 @@ software for Mac
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
 * [EvMan](https://github.com/evmanhq/evman): An open-source tool for your team to manage events, from CfPs to participants. A hosted version is available via [evman.io](https://evman.io).
+* [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
 
 # Hardware
 
@@ -125,6 +129,8 @@ software for Mac
 * [HooToo Wireless Travel Router](https://www.amazon.com/gp/product/B074LHG47K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=realitybreak&camp=1789&creative=9325&linkCode=as2&creativeASIN=B074LHG47K&linkId=65128f522b7130b4e421c0860a31fee0)
 * [RAVPower Wireless Travel Router](https://www.amazon.com/RAVPower-Wireless-Portable-Companion-Streamer/dp/B016ZWS9ZE)
 * [Timular time-tracking app](https://timeular.com/?v=7516fd43adaa)
+* [PlanckEZ](https://ergodox-ez.com/pages/planck): Compact, travel-friendly mechanical keyboard.
+
 
 # Travel Tools
 ## Luggage
@@ -132,12 +138,18 @@ software for Mac
 * [Travelpro Maxlite 5 21"](https://www.ebags.com/product/travelpro/maxlite-5-21-expandable-carry-on-spinner/363078?productid=10688631): Great roller bag, which just seems to continue to take all of the stuff I want to throw in it.
 
 ## Backpacks
+
+* [RiutBag](https://www.riut.co.uk/): Profile themselves as the original anti-theft backpack. 🤷
+* [Travelpro Crew Executive Choice 2](https://www.amazon.com/Travelpro-Executive-Choice-Friendly-Backpack/dp/B01LSWICRG)
+* [Peak Design Everyday Backpack](https://www.peakdesign.com/products/everyday-backpack?variant=29743300902956) 
 * [REI RuckPack 28](https://www.rei.com/product/118790/rei-co-op-ruckpack-28-pack): Primarily would be a day pack, but works really well as a work backpack, with the ability to be used for a short 2-3 day trip as well. Only downside is if you have a long torso.
+* [Timbuk2 Q Laptop Backpack](https://www.timbuk2.com/products/396-q-laptop-backpack-sale)
+
 
 ## Tips & Tricks
 
 ## Other
-
+* [Traveling Salseros](https://www.youtube.com/channel/UC3lgfGlws-Cd-QdQ8mv3LLw): Great, thorough reviews of travel gear.
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
