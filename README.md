@@ -88,8 +88,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Video recording and live streaming
 * [obsproject.com](https://obsproject.com/): Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
-* [screenflow.com](https://www.telestream.net/screenflow/): Video editing and screen recording
-software for Mac
+* [screenflow.com](https://www.telestream.net/screenflow/): Video editing and screen recording software for Mac
+* [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits. 
 
 ## Form creation
 * [typeform.com](https://www.typeform.com/): Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more
