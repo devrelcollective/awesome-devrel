@@ -28,6 +28,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Backpacks](#backpacks)
   - [Tips & Tricks](#tips--tricks)
   - [Other](#other-2)
+ - [Articles](#articles)
 
 ## Community forums
 * [lithium.com](https://www.lithium.com/): Lithium social media software provides on-demand, hosted forums, chats for businesses. Solve your social media marketing problems and learn more today!
@@ -150,6 +151,10 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Other
 * [Traveling Salseros](https://www.youtube.com/channel/UC3lgfGlws-Cd-QdQ8mv3LLw): Great, thorough reviews of travel gear.
+
+# Articles
+* [My travel habits, by Anonymous Hash](https://anonymoushash.vmbrasseur.com/2019/11/25/my-travel-habits/)
+* [@QuinnyPig's conference speaking megathread](https://threadreaderapp.com/thread/1215710451343904768.html) (unrolled twitter thread)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
