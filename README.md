@@ -77,6 +77,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 
 ## Product feedback
+* [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
 * [NomNom](https://nomnom.it/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
 * [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
 * [Sarahah](https://sarahah.com/): Lets your developer communities, friends or coworkers come with anonymous, constructive feedback on *you*. Risk of trolls, chance for gold. 
