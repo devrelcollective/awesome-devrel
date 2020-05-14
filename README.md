@@ -22,6 +22,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Other](#other)
 - [Hardware](#hardware)
   - [Remote clickers/slide advancers](#remote-clickersslide-advancers)
+  - [Microphones](#microphones)
+  - [Cameras](#cameras)
   - [Other](#other-1)
 - [Travel Tools/Tricks/Hacks](#travel-tools)
   - [Luggage](#luggage)
@@ -126,6 +128,21 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 * [Logitech spotlight](https://www.logitech.com/en-us/product/spotlight-presentation-remote?crid=11)
 * [Logitech Wireless Presenter R400](https://www.amazon.com/Logitech-910-001354-Wireless-Presenter-R400/dp/B002GHBUTK/ref=sr_1_4?ie=UTF8&qid=1509991915&sr=8-4&keywords=slide+clicker&dpID=41m21qlrvuL&preST=_SX300_QL70_&dpSrc=srch&pldnSite=1)
+
+## Microphones
+* [Nice comparison of various mics](https://www.youtube.com/watch?v=STS2-IDMaa8)
+* [Blue Snowball Ice](https://www.bluedesigns.com/products/snowball-ice/)
+* [Blue Yeti](https://www.bluedesigns.com/products/yeti/)
+* [SHURE SM7B](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M)
+* [UR22C RECORDING PACK](https://new.steinberg.net/audio-interfaces/ur22c-recording-pack/)
+* [Electro-Voice RE320](https://www.amazon.com/Electro-Voice-RE320-Diaphragm-Dynamic-Microphone/dp/B00KCN83VI) AND [Focusrite Scarlett Solo USB Audio Interface](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR6Z1JB)
+* [Rode Procaster Broadcast Vocal Microphone](https://www.amazon.com/Rode-Procaster-Broadcast-Dynamic-Microphone/dp/B001IPUJJI/)
+
+## Cameras
+* [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam)
+* [Logitech C922 Pro Stream Webcam](https://www.bhphotovideo.com/c/product/1374480-REG/logitech_960_001087_c922_pro_stream_webcam.html)
+* [NDI HX Camera for iPhone](https://apps.apple.com/us/app/ndi-hx-camera/id1477266080?ls=1)
+* [Sony A5100](https://www.bhphotovideo.com/c/product/1076400-REG/sony_ilce_5100l_b_alpha_a5100_mirrorless_digital.html)
 
 ## Other
 * [HooToo Wireless Travel Router](https://www.amazon.com/gp/product/B074LHG47K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=realitybreak&camp=1789&creative=9325&linkCode=as2&creativeASIN=B074LHG47K&linkId=65128f522b7130b4e421c0860a31fee0)
