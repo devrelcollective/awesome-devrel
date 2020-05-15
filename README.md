@@ -44,10 +44,12 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [datocms.com](https://www.datocms.com/): DatoCMS is an API-based administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
 * [gohugo.io](https://gohugo.io/): Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 * [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
+* [gatsby](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps 
 
 ## Podcasting
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
 * [mixlr.com](https://mixlr.com/): Mixlr is a simple way to share live audio online. Broadcast using any source and invite people to listen and chat in real-time.
+* [zencastr.com](https://zencastr.com/): Zencastr is a web app to record your remote interviews in studio quality with a separate track per guest
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
@@ -62,7 +64,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
 
 ## Developer portals and documentation
-* [gelato.io](https://gelato.io/): A tool for creating and maintaining excellent Developer Portals and API or Technical Documentation
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
 * [apimatic.io](https://apimatic.io/): Developer Experience Platform for your Public/Private/Internal APIs
 * [slate](https://github.com/lord/slate): Beautiful static documentation for your API (slate example: [developer.tradegecko.com](http://developer.tradegecko.com/))
@@ -77,10 +78,11 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
+* [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date. 
 
 ## Product feedback
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
-* [NomNom](https://nomnom.it/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
+* [EnjoyHQ](https://getenjoyhq.com/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
 * [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
 * [Sarahah](https://sarahah.com/): Lets your developer communities, friends or coworkers come with anonymous, constructive feedback on *you*. Risk of trolls, chance for gold. 
 
@@ -94,6 +96,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [obsproject.com](https://obsproject.com/): Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
 * [screenflow.com](https://www.telestream.net/screenflow/): Video editing and screen recording software for Mac
 * [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits. 
+* [Loom](https://loom.com): Record your screen, audio and camera in one click. Loom hosts the video for you and you can easily share the link with publicly or with colleagues.
 
 ## Form creation
 * [typeform.com](https://www.typeform.com/): Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more
