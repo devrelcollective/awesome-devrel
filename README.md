@@ -88,9 +88,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
+* [gifcurry](https://github.com/lettier/gifcurry) (for Linux/Mac): Gif editor to add text, trim, and add other effects.
 * [gifbrewery.com](http://gifbrewery.com/) (for Mac): Creating fine-crafted GIFs for Mac users worldwide.
+* [gifsicle](https://github.com/kohler/gifsicle): Optimize and edit GIFs for sharing.
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) (for Mac): Allows you create and edit GIFs through screeen capture, also can add captions and control pixel size
 * [Kap](https://getkap.co) (for Mac): Capture screen areas and save as GIF, MP4, etc. Free and open source.
+* [Peek](https://github.com/phw/peek) (for Linux): Capture screen area and save as GIF or video formats.
+* [terminalizer](https://github.com/faressoft/terminalizer): Record terminal sessions and save to GIF.
 
 ## Video recording and live streaming
 * [obsproject.com](https://obsproject.com/): Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
