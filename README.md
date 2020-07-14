@@ -11,6 +11,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Workshop training](#workshop-training)
   - [Meeting scheduler](#meeting-scheduler)
   - [Developer portals and documentation](#developer-portals-and-documentation)
+  - [Analytics and CRM](#analytics-and-crm)
   - [API documentation](#api-documentation)
   - [Product feedback](#product-feedback)
   - [GIF creation](#gif-creation)
@@ -38,13 +39,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [discourse.org](https://www.discourse.org): Open-source, community-minded forum software
 * [vanillaforums.com](https://vanillaforums.com/en/software/): Vanilla offers a highly brandable and extensible solution for support, Q&A and ideation forums. 
 
-
 ## Static sites generator
 * [netlify.com](https://www.netlify.com/): Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.
 * [datocms.com](https://www.datocms.com/): DatoCMS is an API-based administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
 * [gohugo.io](https://gohugo.io/): Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 * [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
 * [gatsby](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps 
+* [middleman](https://middlemanapp.com): The static site generator behind [Slate](https://github.com/slatedocs/slate)
 
 ## Podcasting
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
@@ -62,6 +63,9 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [calendly.com](https://calendly.com/): Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.
 * [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
+
+## Analytics and CRM
+* [Moesif Developer Relations Management](https://www.moesif.com/solutions/developer-relations): Understand API adoption and keep developers informed automatically.
 
 ## Developer portals and documentation
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
@@ -85,6 +89,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [EnjoyHQ](https://getenjoyhq.com/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
 * [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
 * [Sarahah](https://sarahah.com/): Lets your developer communities, friends or coworkers come with anonymous, constructive feedback on *you*. Risk of trolls, chance for gold. 
+* [HotJar](https://www.hotjar.com/): Record and replay onboarding flows. Cheaper than FullStory.
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
