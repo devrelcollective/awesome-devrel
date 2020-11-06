@@ -173,7 +173,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Travelpro Crew Executive Choice 2](https://www.amazon.com/Travelpro-Executive-Choice-Friendly-Backpack/dp/B01LSWICRG)
 * [Peak Design Everyday Backpack](https://www.peakdesign.com/products/everyday-backpack?variant=29743300902956) 
 * [REI RuckPack 28](https://www.rei.com/product/118790/rei-co-op-ruckpack-28-pack): Primarily would be a day pack, but works really well as a work backpack, with the ability to be used for a short 2-3 day trip as well. Only downside is if you have a long torso.
-* [Timbuk2 Q Laptop Backpack](https://www.timbuk2.com/products/396-q-laptop-backpack-sale)
+* [Timbuk2 Q Laptop Backpack](https://www.timbuk2.com/products/3960-q-laptop-backpack-20)
 
 
 ## Tips & Tricks
