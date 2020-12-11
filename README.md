@@ -10,6 +10,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Podcasting](#podcasting)
   - [Workshop training](#workshop-training)
   - [Meeting scheduler](#meeting-scheduler)
+  - [Virtual Events](#virtual-events)
   - [Developer portals and documentation](#developer-portals-and-documentation)
   - [Analytics and CRM](#analytics-and-crm)
   - [API documentation](#api-documentation)
@@ -32,6 +33,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Tips & Tricks](#tips--tricks)
   - [Other](#other-2)
  - [Articles](#articles)
+ - [DevlRel Events](#events)
 
 ## Community forums
 * [answerhub.com](http://www.dzonesoftware.com/): Q&A Solution based on the idea of Stack Exchange
@@ -62,6 +64,12 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [calendly.com](https://calendly.com/): Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.
 * [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
+
+## Virtual Online
+
+* [Icebreaker](https://icebreaker.video/): online networking tool, like chat roulette but for online events
+* [Brella.io](https://www.brella.io/event-matchmaking): event matchmaking, engament, etc
+* [Other](https://www.g2.com/categories/virtual-event-platforms)
 
 ## Analytics and CRM
 * [Moesif Developer Relations Management](https://www.moesif.com/solutions/developer-relations): Understand API adoption and keep developers informed automatically.
@@ -184,6 +192,10 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 # Articles
 * [My travel habits, by Anonymous Hash](https://anonymoushash.vmbrasseur.com/2019/11/25/my-travel-habits/)
 * [@QuinnyPig's conference speaking megathread](https://threadreaderapp.com/thread/1215710451343904768.html) (unrolled twitter thread)
+
+# Events
+
+* [DevRelCon](https://www.youtube.com/DevRel)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
