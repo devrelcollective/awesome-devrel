@@ -132,6 +132,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
 * [EvMan](https://github.com/evmanhq/evman): An open-source tool for your team to manage events, from CfPs to participants. A hosted version is available via [evman.io](https://evman.io).
 * [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
+* [Icebreaker.video](https://icebreaker.video/): Create small groups of people and help them to know one another with guided conversation games.
 
 # Hardware
 
