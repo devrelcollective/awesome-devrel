@@ -65,10 +65,12 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
 
-## Virtual Online
+## Virtual Events
 
 * [Icebreaker](https://icebreaker.video/): online networking tool, like chat roulette but for online events
 * [Brella.io](https://www.brella.io/event-matchmaking): event matchmaking, engament, etc
+* [Gather.town](https://gather.town/): Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life
+* [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
 * [Other](https://www.g2.com/categories/virtual-event-platforms)
 
 ## Analytics and CRM
@@ -193,6 +195,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 # Articles
 * [My travel habits, by Anonymous Hash](https://anonymoushash.vmbrasseur.com/2019/11/25/my-travel-habits/)
 * [@QuinnyPig's conference speaking megathread](https://threadreaderapp.com/thread/1215710451343904768.html) (unrolled twitter thread)
+* [An adaptable framework for preparing a strategy planning session for your devrel team](https://github.com/npentrel/devrel-strategy-sbs#developer-relations-strategy---step-by-step)
 
 # Events
 
