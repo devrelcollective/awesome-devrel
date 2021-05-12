@@ -16,7 +16,8 @@ Kind of like Emily Post, but for Slack.
     - [Asking for Help](#asking-for-help)
     - [Don't flood a channel with GIFs](#dont-flood-a-channel-with-gifs)
   - [Some Terms](#some-terms)
-  - [Attribution](#attribution)
+  - [License](#license)
+    - [Attribution](#attribution)
 
 
 ## Contributing
@@ -101,6 +102,10 @@ and can obscure something important. So pay attention to when and where you post
  * DM: A private chat between two people, short for "direct message". You can start group DMs, but those are discouraged
  see [Use Private Groups Not Group DMs](#use-private-groups-not-group-dms)
 
-## Attribution
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE.md).
+
+### Attribution
 
 This document was forked with permission from the [SparkPost](https://github.com/SparkPost/slack-etiquette/blob/master/README.md) Slack Etiquette document.

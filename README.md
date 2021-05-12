@@ -34,6 +34,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Other](#other-2)
  - [Articles](#articles)
  - [DevlRel Events](#events)
+ - [Resource Templates](#resource-templates)
 
 ## Community forums
 * [answerhub.com](http://www.dzonesoftware.com/): Q&A Solution based on the idea of Stack Exchange
@@ -204,3 +205,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+# Resource Templates
+
+* [Slack Etiquette](./templates/slack-etiquette.md) - Best practices guide for communicating over Slack
