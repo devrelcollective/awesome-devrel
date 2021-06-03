@@ -71,6 +71,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Brella.io](https://www.brella.io/event-matchmaking): event matchmaking, engament, etc
 * [Gather.town](https://gather.town/): Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life
 * [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
+* [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
 * [Other](https://www.g2.com/categories/virtual-event-platforms)
 
 ## Analytics and CRM
