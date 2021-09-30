@@ -108,7 +108,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
-* [EZGif](https://ezgif.com/): Onliine Gif editor - crop, add text, trim, add effects, censor - all online.
+* [EZGif](https://ezgif.com/): Online Gif editor - crop, add text, trim, add effects, censor - all online.
 * [gifcurry](https://github.com/lettier/gifcurry) (for Linux/Mac): Gif editor to add text, trim, and add other effects.
 * [gifbrewery.com](http://gifbrewery.com/) (for Mac): Creating fine-crafted GIFs for Mac users worldwide.
 * [gifsicle](https://github.com/kohler/gifsicle): Optimize and edit GIFs for sharing.
