@@ -77,6 +77,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
 * [Other](https://www.g2.com/categories/virtual-event-platforms)
 * [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit): Free, open-source template using Next.js and Vercel
+* [Skittish](https://skittish.com/): A playful space for online events.
 
 ## Analytics and CRM
 * [Moesif Developer Relations Management](https://www.moesif.com/solutions/developer-relations): Understand API adoption and keep developers informed automatically.
