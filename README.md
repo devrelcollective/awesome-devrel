@@ -32,9 +32,12 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Backpacks](#backpacks)
   - [Tips & Tricks](#tips--tricks)
   - [Other](#other-2)
- - [Articles](#articles)
- - [DevlRel Events](#events)
- - [Resource Templates](#resource-templates)
+- [Community Management](#community-management)
+  - [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
+  - [Community Building](#community-building)
+- [Articles](#articles)
+- [DevlRel Events](#events)
+- [Resource Templates](#resource-templates)
 
 ## Community forums
 * [answerhub.com](http://www.dzonesoftware.com/): Q&A Solution based on the idea of Stack Exchange
@@ -43,6 +46,10 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Static sites generator
 * [netlify.com](https://www.netlify.com/): Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.
+* [netlifycms](https://www.netlifycms.org/): Open source content management for your Git workflow
+* [Cloudflare Pages](https://pages.cloudflare.com/): Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
+* [GitHub Pages](https://docs.github.com/en/pages): You can create a website directly from a repository on GitHub.com.
+* [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview): Streamlined full-stack development from source code to global high availability
 * [datocms.com](https://www.datocms.com/): DatoCMS is an API-based administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
 * [gohugo.io](https://gohugo.io/): Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 * [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
@@ -51,6 +58,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Vercel](https://vercel.com): Deploy any static site (Next.js, Jekll, Hugo, Gatsby, etc) for free.
 * [Render](https://render.com): Free static sites. Global CDN, managed TLS certs, PR previews, custom domain or `.onrender.com` subdomain. [More details](https://render.com/docs/static-sites).
 
+
 ## Podcasting
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
 * [mixlr.com](https://mixlr.com/): Mixlr is a simple way to share live audio online. Broadcast using any source and invite people to listen and chat in real-time.
@@ -58,9 +66,16 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
-* [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free. 
+* [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free.
 * [Google Codelabs](https://github.com/googlecodelabs/tools): Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
 * [CodePen](https://codepen.io/): CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+* [CodeSandbox](https://codesandbox.io/): Create, share, and get feedback with collaborative sandboxes for rapid web development.
+* [Tuple](https://tuple.app/): The best remote pair programming app on macOS.
+* [RunKit](https://runkit.com/): RunKit is a node playground in your browser.
+* [Observable](https://observablehq.com/): Explore, analyze, and explain data. As a team.
+* [Jupyter](https://jupyter.org/): Project Jupyter develops open-source software, open standards, and services for interactive computing across dozens of programming languages.
+* [replit](https://replit.com/): Code, create, and learn together.
+* [CoScreen](https://www.coscreen.co/): Collaborative screen sharing and video chat. One click to share and co-edit any window. Bring your team closer to you.
 
 ## Meeting scheduler
 * [claralabs.com](https://claralabs.com/): Clara is your partner in doing great work - a virtual employee that schedules your meetings.
@@ -99,7 +114,9 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
-* [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date. 
+* [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
+* [Insomnia](https://insomnia.rest/): Deliver high quality APIs through standards and collaboration with the Insomnia API design platform.
+
 
 ## Product feedback
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
@@ -121,9 +138,12 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Video recording and live streaming
 * [obsproject.com](https://obsproject.com/): Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
+* [OBS Ninja](https://obs.ninja/): Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
 * [screenflow.com](https://www.telestream.net/screenflow/): Video editing and screen recording software for Mac
-* [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits. 
+* [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits.
 * [Loom](https://loom.com): Record your screen, audio and camera in one click. Loom hosts the video for you and you can easily share the link with publicly or with colleagues.
+* [StreamYard](https://streamyard.com/): StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.
+* [Restream](https://restream.io/): Restream allows you to stream live to 30+ social platforms at once.
 
 ## Form creation
 * [typeform.com](https://www.typeform.com/): Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more
@@ -203,6 +223,25 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Other
 * [Traveling Salseros](https://www.youtube.com/channel/UC3lgfGlws-Cd-QdQ8mv3LLw): Great, thorough reviews of travel gear.
 
+# Community Management
+
+## Community Building
+
+* [GitHub Open Source Guides](https://opensource.guide/): Open Source Guides is a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+* [Contributor Covenant](https://www.contributor-covenant.org/): A Code of Conduct for Open Source Communities
+* [Commsor Blog](https://www.commsor.com/blog): Thoughts and insights on community, marketing, and creating connections.
+* [Community Club Newsletter](https://www.community.club/newsletter)
+* [CMX Newsletter](https://cmxhub.com/subscribe/)
+* [Orbit Community Blog](https://orbit.love/blog-category/community)
+* [Blog: What 3rd party events are interesting for my DevRel organisation?](https://dev.to/floord/what-3rd-party-events-are-interesting-for-my-company-1p14) by @floord
+* [Blog: How to make the most out of sponsoring an event](https://dev.to/floord/how-to-make-the-most-out-of-sponsoring-an-event-2jhk) by @floord
+
+## Diversity, Equity and Inclusion
+
+* [Blog: A Step-by-Step Guide to Hosting Inclusive Developer Meetups or Events In Your Office](https://dev.to/listencommunity/a-step-by-step-guide-to-hosting-inclusive-developer-meetups-or-events-in-your-office-48g4) by @SarahJaneMorris
+* [Video: Inclusive and Accessible Events](https://www.youtube.com/watch?v=1AQNw1YH-nQ) by @hnky
+* [Video: Event Accessibility](https://www.youtube.com/watch?v=Zb0dOIeoowA)
+
 # Articles
 * [My travel habits, by Anonymous Hash](https://anonymoushash.vmbrasseur.com/2019/11/25/my-travel-habits/)
 * [@QuinnyPig's conference speaking megathread](https://threadreaderapp.com/thread/1215710451343904768.html) (unrolled twitter thread)
@@ -211,6 +250,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 # Events
 
 * [DevRelCon](https://www.youtube.com/DevRel)
+* [CMX Summit](https://cmxhub.com/summit/)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
