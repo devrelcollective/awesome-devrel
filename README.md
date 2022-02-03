@@ -233,6 +233,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Orbit Community Blog](https://orbit.love/blog-category/community)
 * [Blog: What 3rd party events are interesting for my DevRel organisation?](https://dev.to/floord/what-3rd-party-events-are-interesting-for-my-company-1p14) by @floord
 * [Blog: How to make the most out of sponsoring an event](https://dev.to/floord/how-to-make-the-most-out-of-sponsoring-an-event-2jhk) by @floord
+* [A corporate DevRel program for honoring open source contributions](https://github.com/jansche/oss-advisors)
 
 ## Diversity, Equity and Inclusion
 
@@ -244,6 +245,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [My travel habits, by Anonymous Hash](https://anonymoushash.vmbrasseur.com/2019/11/25/my-travel-habits/)
 * [@QuinnyPig's conference speaking megathread](https://threadreaderapp.com/thread/1215710451343904768.html) (unrolled twitter thread)
 * [An adaptable framework for preparing a strategy planning session for your devrel team](https://github.com/npentrel/devrel-strategy-sbs#developer-relations-strategy---step-by-step)
+* [A DevRel approach to prioritising events on dev.to](https://dev.to/postman/a-devrel-approach-to-prioritising-events-3d7m)
 
 # Events
 
