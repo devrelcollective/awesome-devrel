@@ -21,6 +21,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Presentation engine](#presentation-engine)
   - [Real time interactions](#real-time-interactions)
   - [CFPs and Speaking Resources](#cfps-and-speaking-resources)
+  - [Websites to Publish Articles](#websites-to-publish-articles)
   - [Other](#other)
 - [Hardware](#hardware)
   - [Remote clickers/slide advancers](#remote-clickersslide-advancers)
@@ -169,6 +170,22 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Tech Daily CFP](https://mailchi.mp/f2e4ba861211/techdailycfp): Sends a daily newsletter of CFPs.
 * [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
 * [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) - A list of worldwide conferences since 2017 with date and location
+
+## Websites to Publish Articles
+* [dzone](https://dzone.com/)
+* [hackernoon](https://www.hackernoon.com/)
+* [medium](https://www.medium.com/): medium publications are the core value of medium e.g.: 
+  * [swlh](https://medium.com/swlh)
+  * [javarevisited](https://medium.com/javarevisited)
+  * [better-programming](https://medium.com/better-programming)
+* [The New Stack](https://thenewstack.io/)
+* [Java Magazine](https://blogs.oracle.com/javamagazine/)
+* [Java Code Geeks](https://www.javacodegeeks.com/): including related sites specifically
+  * [.NET Code Geeks](https://www.dotnetcodegeeks.com/)
+  * [System Code Geeks](https://www.systemcodegeeks.com/)
+  * [Web Code Geeks](https://www.webcodegeeks.com/)
+* [jaxenter](https://jaxenter.com/)
+
 
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
