@@ -152,10 +152,16 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
 * [hackernoon](https://www.hackernoon.com/)
-* [medium](https://www.medium.com/): medium publications are the core value of medium e.g. [swlh](https://medium.com/swlh), [javarevisited](https://medium.com/javarevisited), [better-programming](https://medium.com/better-programming) etc.
+* [medium](https://www.medium.com/): medium publications are the core value of medium e.g.: 
+  * [swlh](https://medium.com/swlh)
+  * [javarevisited](https://medium.com/javarevisited)
+  * [better-programming](https://medium.com/better-programming)
 * [The New Stack](https://thenewstack.io/)
 * [Java Magazine](https://blogs.oracle.com/javamagazine/)
-* [Java Code Geeks](https://www.javacodegeeks.com/), [.NET Code Geeks](https://www.dotnetcodegeeks.com/), [System Code Geeks](https://www.systemcodegeeks.com/), [Web Code Geeks](https://www.webcodegeeks.com/)
+* [Java Code Geeks](https://www.javacodegeeks.com/): including related sites specifically
+  * [.NET Code Geeks](https://www.dotnetcodegeeks.com/)
+  * [System Code Geeks](https://www.systemcodegeeks.com/)
+  * [Web Code Geeks](https://www.webcodegeeks.com/)
 * [jaxenter](https://jaxenter.com/)
 
 
