@@ -166,6 +166,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [SeeCFP](https://seecfp.com/): CFP list and email notification.
 * [Tech Daily CFP](https://mailchi.mp/f2e4ba861211/techdailycfp): Sends a daily newsletter of CFPs.
 * [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) - A list of worldwide conferences since 2017 with date and location
 
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
