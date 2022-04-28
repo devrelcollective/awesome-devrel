@@ -83,7 +83,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [calendly.com](https://calendly.com/): Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.
 * [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
-* [calendso](https://calendso.com/): Open source Calendly
+* [Cal.com](https://cal.com/): Open source Calendly
 * [appointment.one](https://appointment.one/): Very good scheduler with multiple-calendar support and group scheduling options. Has a free tier.
 
 ## Virtual Events
