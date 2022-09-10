@@ -174,6 +174,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
 * [hackernoon](https://www.hackernoon.com/)
+* [Hashnode](https://www.hashnode.com/)
 * [medium](https://www.medium.com/): medium publications are the core value of medium e.g.: 
   * [swlh](https://medium.com/swlh)
   * [javarevisited](https://medium.com/javarevisited)
