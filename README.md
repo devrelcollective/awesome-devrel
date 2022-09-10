@@ -279,3 +279,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 # Resource Templates
 
 * [Slack Etiquette](./templates/slack-etiquette.md) - Best practices guide for communicating over Slack
+
+# Thanks to all the contributors ❤
+<a href="https://www.github.com/devrelcollective/awesome-devrel/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=devrelcollective/awesome-devrel"/>
+</a>
