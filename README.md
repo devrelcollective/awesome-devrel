@@ -174,6 +174,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
 * [hackernoon](https://www.hackernoon.com/)
+* [Hashnode](https://www.hashnode.com/)
 * [medium](https://www.medium.com/): medium publications are the core value of medium e.g.: 
   * [swlh](https://medium.com/swlh)
   * [javarevisited](https://medium.com/javarevisited)
@@ -278,3 +279,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 # Resource Templates
 
 * [Slack Etiquette](./templates/slack-etiquette.md) - Best practices guide for communicating over Slack
+
+# Thanks to all the contributors ❤
+<a href="https://www.github.com/devrelcollective/awesome-devrel/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=devrelcollective/awesome-devrel"/>
+</a>
