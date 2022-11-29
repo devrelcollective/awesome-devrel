@@ -100,6 +100,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Moesif Developer Relations Management](https://www.moesif.com/solutions/developer-relations): Understand API adoption and keep developers informed automatically.
 
 ## Developer portals and documentation
+* [developerhub.io](http://developerhub.io/): Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
 * [apimatic.io](https://apimatic.io/): Developer Experience Platform for your Public/Private/Internal APIs
 * [slate](https://github.com/lord/slate): Beautiful static documentation for your API (slate example: [developer.tradegecko.com](http://developer.tradegecko.com/))
