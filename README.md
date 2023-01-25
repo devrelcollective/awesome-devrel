@@ -223,6 +223,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [RAVPower Wireless Travel Router](https://www.amazon.com/RAVPower-Wireless-Portable-Companion-Streamer/dp/B016ZWS9ZE)
 * [Timular time-tracking app](https://timeular.com/?v=7516fd43adaa)
 * [PlanckEZ](https://ergodox-ez.com/pages/planck): Compact, travel-friendly mechanical keyboard.
+* [Mogics Travel Bagel](https://www.mogics.com/3824-2): Compact 4x plug + 2x USB power adapter for any country to any country
 
 
 # Travel Tools
