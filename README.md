@@ -93,6 +93,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Gather.town](https://gather.town/): Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life
 * [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
 * [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
+* [flat.social](https://flat.social/): Fun & highly interactive virtual spaces for online meetings & socials
 * [Other](https://www.g2.com/categories/virtual-event-platforms)
 * [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit): Free, open-source template using Next.js and Vercel
 
