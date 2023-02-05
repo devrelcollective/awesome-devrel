@@ -157,6 +157,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [slides.com](https://slides.com/): Make better presentations. Slides is a place for creating, presenting and sharing slide decks.
 * [gitpitch.com](https://gitpitch.com/): Create compelling slideshow presentations in no time using the tools you already know and love ~ Markdown + Git
 * [deckdeckgo.com](https://deckdeckgo.com/): Create presentations that work as standalone apps at any device, everywhere ([see example video](https://www.youtube.com/watch?v=3o3oGBTTRSs))
+* [Slidev](https://sli.dev/): Slidev aims to provide the flexibility and interactivity for developers to make their presentations even more interesting, expressive, and attractive by using the tools and technologies they are already familiar with.
 
 ## Real time interactions
 * [kahoot.com](https://kahoot.com/): Game-based platform that makes learning awesome for millions of people all over the world. **Useful for real time surveys**
