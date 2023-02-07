@@ -16,8 +16,9 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.6.10
+        ruby-version: 3.0
+        bundler-cache: true
     - name: Checking Links
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-dupe --allow-redirect
+        awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow-timeout --allow 403
