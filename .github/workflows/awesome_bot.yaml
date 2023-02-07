@@ -21,4 +21,4 @@ jobs:
     - name: Checking Links
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow-timeout --allow 403
+        awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow-timeout --allow 403 --white-list swagger.io,oracle.com
