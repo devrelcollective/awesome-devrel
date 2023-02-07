@@ -41,7 +41,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 - [Resource Templates](#resource-templates)
 
 ## Community forums
-* [answerhub.com](http://www.dzonesoftware.com/): Q&A Solution based on the idea of Stack Exchange
 * [discourse.org](https://www.discourse.org): Open-source, community-minded forum software
 * [vanillaforums.com](https://vanillaforums.com/en/software/): Vanilla offers a highly brandable and extensible solution for support, Q&A and ideation forums. 
 
@@ -81,7 +80,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Meeting scheduler
 * [claralabs.com](https://claralabs.com/): Clara is your partner in doing great work - a virtual employee that schedules your meetings.
 * [calendly.com](https://calendly.com/): Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.
-* [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
 * [Cal.com](https://cal.com/): Open source Calendly
 * [appointment.one](https://appointment.one/): Very good scheduler with multiple-calendar support and group scheduling options. Has a free tier.
@@ -125,14 +123,12 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
 * [EnjoyHQ](https://getenjoyhq.com/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
 * [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
-* [Sarahah](https://sarahah.com/): Lets your developer communities, friends or coworkers come with anonymous, constructive feedback on *you*. Risk of trolls, chance for gold. 
 * [HotJar](https://www.hotjar.com/): Record and replay onboarding flows. Cheaper than FullStory.
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
 * [EZGif](https://ezgif.com/): Online Gif editor - crop, add text, trim, add effects, censor - all online.
 * [gifcurry](https://github.com/lettier/gifcurry) (for Linux/Mac): Gif editor to add text, trim, and add other effects.
-* [gifbrewery.com](http://gifbrewery.com/) (for Mac): Creating fine-crafted GIFs for Mac users worldwide.
 * [gifsicle](https://github.com/kohler/gifsicle): Optimize and edit GIFs for sharing.
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) (for Mac): Allows you create and edit GIFs through screeen capture, also can add captions and control pixel size
 * [Kap](https://getkap.co) (for Mac): Capture screen areas and save as GIF, MP4, etc. Free and open source.
@@ -155,7 +151,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [shwr.me](https://shwr.me/): Shower HTML presentation engine (Jekyll support)
 * [reveal.js](https://revealjs.com/#/): The HTML presentation framework
 * [slides.com](https://slides.com/): Make better presentations. Slides is a place for creating, presenting and sharing slide decks.
-* [gitpitch.com](https://gitpitch.com/): Create compelling slideshow presentations in no time using the tools you already know and love ~ Markdown + Git
 * [deckdeckgo.com](https://deckdeckgo.com/): Create presentations that work as standalone apps at any device, everywhere ([see example video](https://www.youtube.com/watch?v=3o3oGBTTRSs))
 
 ## Real time interactions
@@ -193,7 +188,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
-* [EvMan](https://github.com/evmanhq/evman): An open-source tool for your team to manage events, from CfPs to participants. A hosted version is available via [evman.io](https://evman.io).
+* [EvMan](https://github.com/evmanhq/evman): An open-source tool for your team to manage events, from CfPs to participants. A hosted version is available via evman.io.
 * [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
 * [Icebreaker.video](https://icebreaker.video/): Create small groups of people and help them to know one another with guided conversation games.
 
@@ -230,7 +225,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 # Travel Tools
 ## Luggage
 * [Osprey Porter 46](https://www.ospreyeurope.com/shop/eu_en/travel/porter-series): Works as a backpack style suit case, can easily fit clothes for an entire week when expanded while being able to compress for daily use (laptop, accessories).
-* [Travelpro Maxlite 5 21"](https://www.ebags.com/product/travelpro/maxlite-5-21-expandable-carry-on-spinner/363078?productid=10688631): Great roller bag, which just seems to continue to take all of the stuff I want to throw in it.
+
 
 ## Backpacks
 
