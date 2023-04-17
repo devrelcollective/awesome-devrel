@@ -64,6 +64,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
 * [mixlr.com](https://mixlr.com/): Mixlr is a simple way to share live audio online. Broadcast using any source and invite people to listen and chat in real-time.
 * [zencastr.com](https://zencastr.com/): Zencastr is a web app to record your remote interviews in studio quality with a separate track per guest
+* [transistor.fm](https://transistor.fm/): Transistor provides podcast hosting and analytics and supports multiple podcasts under one account fee so you can spin up as many podcasts as you want. In addition to simple instructions for submitting your RSS feed to Spotify, Apple and other big directories, you get a customizable website, shareable and embeddable player, and API access. Private Podcasts are great addons for Memberships or Patreon Perks.
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
