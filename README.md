@@ -167,7 +167,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## CFPs and Speaking Resources
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech), shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [CallingAllPapers](https://callingallpapers.com/): Open source aggregator that grabs conferences from several sources. They also have a free API.
-* [CFP Land](https://www.cfpland.com/): Sends a weekly newsletter of CFPs and Tweets them about a month before they’re due. Also has a [large, filterable list of open CFPs](https://www.cfpland.com/conferences/), and a blog full of [speaker stories](https://www.cfpland.com/blog/).
 * [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking): A big open source list of conference speaking tips.
 * [Speaking.io](https://speaking.io/): Zach Holman’s collected tips for public speakers in tech.
 * [SeeCFP](https://seecfp.com/): CFP list and email notification.
