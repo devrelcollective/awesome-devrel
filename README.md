@@ -4,6 +4,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 # Table of Contents
 
+- [Awesome DevRel ](#awesome-devrel-)
 - [Table of Contents](#table-of-contents)
   - [Community forums](#community-forums)
   - [Static sites generator](#static-sites-generator)
@@ -11,8 +12,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Workshop training](#workshop-training)
   - [Meeting scheduler](#meeting-scheduler)
   - [Virtual Events](#virtual-events)
-  - [Developer portals and documentation](#developer-portals-and-documentation)
   - [Analytics and CRM](#analytics-and-crm)
+  - [Developer portals and documentation](#developer-portals-and-documentation)
   - [API documentation](#api-documentation)
   - [Product feedback](#product-feedback)
   - [GIF creation](#gif-creation)
@@ -28,22 +29,23 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   - [Microphones](#microphones)
   - [Cameras](#cameras)
   - [Other](#other-1)
-- [Travel Tools/Tricks/Hacks](#travel-tools)
+- [Travel Tools](#travel-tools)
   - [Luggage](#luggage)
   - [Backpacks](#backpacks)
-  - [Tips & Tricks](#tips--tricks)
+  - [Tips \& Tricks](#tips--tricks)
   - [Other](#other-2)
 - [Community Management](#community-management)
-  - [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
   - [Community Building](#community-building)
+  - [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 - [Articles](#articles)
-- [DevlRel Events](#events)
+- [Events](#events)
+- [LICENSE](#license)
 - [Resource Templates](#resource-templates)
+- [Thanks to all the contributors ❤](#thanks-to-all-the-contributors-)
 
 ## Community forums
-* [answerhub.com](http://www.dzonesoftware.com/): Q&A Solution based on the idea of Stack Exchange
 * [discourse.org](https://www.discourse.org): Open-source, community-minded forum software
-* [vanillaforums.com](https://vanillaforums.com/en/software/): Vanilla offers a highly brandable and extensible solution for support, Q&A and ideation forums. 
+* [vanillaforums.com](https://vanillaforums.com/en/software/): Vanilla offers a highly brandable and extensible solution for support, Q&A and ideation forums.
 
 ## Static sites generator
 * [netlify.com](https://www.netlify.com/): Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.
@@ -54,7 +56,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [datocms.com](https://www.datocms.com/): DatoCMS is an API-based administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
 * [gohugo.io](https://gohugo.io/): Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 * [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
-* [gatsby](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps 
+* [gatsby](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
 * [middleman](https://middlemanapp.com): The static site generator behind [Slate](https://github.com/slatedocs/slate)
 * [Vercel](https://vercel.com): Deploy any static site (Next.js, Jekll, Hugo, Gatsby, etc) for free.
 * [Render](https://render.com): Free static sites. Global CDN, managed TLS certs, PR previews, custom domain or `.onrender.com` subdomain. [More details](https://render.com/docs/static-sites).
@@ -70,7 +72,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
 * [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free.
 * [Google Codelabs](https://github.com/googlecodelabs/tools): Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
-* [CodePen](https://codepen.io/): CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+* [CodePen](https://codepen.io/trending): CodePen.io is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 * [CodeSandbox](https://codesandbox.io/): Create, share, and get feedback with collaborative sandboxes for rapid web development.
 * [Tuple](https://tuple.app/): The best remote pair programming app on macOS.
 * [RunKit](https://runkit.com/): RunKit is a node playground in your browser.
@@ -95,7 +97,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
 * [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
 * [flat.social](https://flat.social/): Fun & highly interactive virtual spaces for online meetings & socials
-* [Other](https://www.g2.com/categories/virtual-event-platforms)
 * [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit): Free, open-source template using Next.js and Vercel
 
 ## Analytics and CRM
@@ -115,7 +116,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Nextra](https://nextra.vercel.app/): Write docs with Markdown/MDX and Next.js
 
 ## API documentation
-* [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 * [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
@@ -126,14 +126,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
 * [EnjoyHQ](https://getenjoyhq.com/): When your team wants to discover customer problems, do research for a new feature, collect evidence for your next sprint planning, share research findings and more, NomNom has your back.
 * [UserVoice](https://uservoice.com): User feedback software to help you listen to your customers, focus product development efforts on features that matter, and innovate efficiently.
-* [Sarahah](https://sarahah.com/): Lets your developer communities, friends or coworkers come with anonymous, constructive feedback on *you*. Risk of trolls, chance for gold. 
 * [HotJar](https://www.hotjar.com/): Record and replay onboarding flows. Cheaper than FullStory.
 
 ## GIF creation
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
 * [EZGif](https://ezgif.com/): Online Gif editor - crop, add text, trim, add effects, censor - all online.
 * [gifcurry](https://github.com/lettier/gifcurry) (for Linux/Mac): Gif editor to add text, trim, and add other effects.
-* [gifbrewery.com](http://gifbrewery.com/) (for Mac): Creating fine-crafted GIFs for Mac users worldwide.
+* [gifbrewery](https://gfycat.com/gifbrewery) (for Mac): Creating fine-crafted GIFs for Mac users worldwide.
 * [gifsicle](https://github.com/kohler/gifsicle): Optimize and edit GIFs for sharing.
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) (for Mac): Allows you create and edit GIFs through screeen capture, also can add captions and control pixel size
 * [Kap](https://getkap.co) (for Mac): Capture screen areas and save as GIF, MP4, etc. Free and open source.
@@ -148,6 +147,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Loom](https://loom.com): Record your screen, audio and camera in one click. Loom hosts the video for you and you can easily share the link with publicly or with colleagues.
 * [StreamYard](https://streamyard.com/): StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.
 * [Restream](https://restream.io/): Restream allows you to stream live to 30+ social platforms at once.
+* [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
 
 ## Form creation
 * [typeform.com](https://www.typeform.com/): Build beautiful, engaging, and conversational online forms, surveys, quizzes, landing pages, and much more
@@ -156,7 +156,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [shwr.me](https://shwr.me/): Shower HTML presentation engine (Jekyll support)
 * [reveal.js](https://revealjs.com/#/): The HTML presentation framework
 * [slides.com](https://slides.com/): Make better presentations. Slides is a place for creating, presenting and sharing slide decks.
-* [gitpitch.com](https://gitpitch.com/): Create compelling slideshow presentations in no time using the tools you already know and love ~ Markdown + Git
 * [deckdeckgo.com](https://deckdeckgo.com/): Create presentations that work as standalone apps at any device, everywhere ([see example video](https://www.youtube.com/watch?v=3o3oGBTTRSs))
 * [Slidev](https://sli.dev/): Slidev aims to provide the flexibility and interactivity for developers to make their presentations even more interesting, expressive, and attractive by using the tools and technologies they are already familiar with.
 
@@ -167,24 +166,21 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## CFPs and Speaking Resources
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech), shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [CallingAllPapers](https://callingallpapers.com/): Open source aggregator that grabs conferences from several sources. They also have a free API.
-* [CFP Land](https://www.cfpland.com/): Sends a weekly newsletter of CFPs and Tweets them about a month before they’re due. Also has a [large, filterable list of open CFPs](https://www.cfpland.com/conferences/), and a blog full of [speaker stories](https://www.cfpland.com/blog/).
 * [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking): A big open source list of conference speaking tips.
 * [Speaking.io](https://speaking.io/): Zach Holman’s collected tips for public speakers in tech.
 * [SeeCFP](https://seecfp.com/): CFP list and email notification.
 * [Tech Daily CFP](https://mailchi.mp/f2e4ba861211/techdailycfp): Sends a daily newsletter of CFPs.
-* [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
 * [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) - A list of worldwide conferences since 2017 with date and location
 
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
 * [hackernoon](https://www.hackernoon.com/)
 * [Hashnode](https://www.hashnode.com/)
-* [medium](https://www.medium.com/): medium publications are the core value of medium e.g.: 
+* [medium](https://www.medium.com/): medium publications are the core value of medium e.g.:
   * [swlh](https://medium.com/swlh)
   * [javarevisited](https://medium.com/javarevisited)
   * [better-programming](https://medium.com/better-programming)
 * [The New Stack](https://thenewstack.io/)
-* [Java Magazine](https://blogs.oracle.com/javamagazine/)
 * [Java Code Geeks](https://www.javacodegeeks.com/): including related sites specifically
   * [.NET Code Geeks](https://www.dotnetcodegeeks.com/)
   * [System Code Geeks](https://www.systemcodegeeks.com/)
@@ -195,51 +191,41 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
-* [EvMan](https://github.com/evmanhq/evman): An open-source tool for your team to manage events, from CfPs to participants. A hosted version is available via [evman.io](https://evman.io).
-* [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
-* [Icebreaker.video](https://icebreaker.video/): Create small groups of people and help them to know one another with guided conversation games.
 
 # Hardware
 
 ## Remote clickers/slide advancers
 
 * [Logitech spotlight](https://www.logitech.com/en-us/product/spotlight-presentation-remote?crid=11)
-* [Logitech Wireless Presenter R400](https://www.amazon.com/Logitech-910-001354-Wireless-Presenter-R400/dp/B002GHBUTK/ref=sr_1_4?ie=UTF8&qid=1509991915&sr=8-4&keywords=slide+clicker&dpID=41m21qlrvuL&preST=_SX300_QL70_&dpSrc=srch&pldnSite=1)
+* [Logitech Wireless Presenter R400](https://www.amazon.com/Logitech-910-001354-Wireless-Presenter-R400/dp/B002GHBUTK)
 
 ## Microphones
 * [Nice comparison of various mics](https://www.youtube.com/watch?v=STS2-IDMaa8)
 * [Blue Snowball Ice](https://www.bluedesigns.com/products/snowball-ice/)
 * [Blue Yeti](https://www.bluedesigns.com/products/yeti/)
-* [SHURE SM7B](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M)
+* [SHURE SM7B](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M?th=1)
 * [UR22C RECORDING PACK](https://new.steinberg.net/audio-interfaces/ur22c-recording-pack/)
 * [Electro-Voice RE320](https://www.amazon.com/Electro-Voice-RE320-Diaphragm-Dynamic-Microphone/dp/B00KCN83VI) AND [Focusrite Scarlett Solo USB Audio Interface](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR6Z1JB)
 * [Rode Procaster Broadcast Vocal Microphone](https://www.amazon.com/Rode-Procaster-Broadcast-Dynamic-Microphone/dp/B001IPUJJI/)
 
 ## Cameras
-* [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam)
+* [Logitech StreamCam](https://www.logitech.com/en-us/products/webcams/streamcam.960-001286.html)
 * [Logitech C922 Pro Stream Webcam](https://www.bhphotovideo.com/c/product/1374480-REG/logitech_960_001087_c922_pro_stream_webcam.html)
 * [NDI HX Camera for iPhone](https://apps.apple.com/us/app/ndi-hx-camera/id1477266080?ls=1)
-* [Sony A5100](https://www.bhphotovideo.com/c/product/1076400-REG/sony_ilce_5100l_b_alpha_a5100_mirrorless_digital.html)
 
 ## Other
-* [HooToo Wireless Travel Router](https://www.amazon.com/gp/product/B074LHG47K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=realitybreak&camp=1789&creative=9325&linkCode=as2&creativeASIN=B074LHG47K&linkId=65128f522b7130b4e421c0860a31fee0)
-* [RAVPower Wireless Travel Router](https://www.amazon.com/RAVPower-Wireless-Portable-Companion-Streamer/dp/B016ZWS9ZE)
 * [Timular time-tracking app](https://timeular.com/?v=7516fd43adaa)
-* [PlanckEZ](https://ergodox-ez.com/pages/planck): Compact, travel-friendly mechanical keyboard.
 * [Mogics Travel Bagel](https://www.mogics.com/3824-2): Compact 4x plug + 2x USB power adapter for any country to any country
 
 
 # Travel Tools
 ## Luggage
 * [Osprey Porter 46](https://www.ospreyeurope.com/shop/eu_en/travel/porter-series): Works as a backpack style suit case, can easily fit clothes for an entire week when expanded while being able to compress for daily use (laptop, accessories).
-* [Travelpro Maxlite 5 21"](https://www.ebags.com/product/travelpro/maxlite-5-21-expandable-carry-on-spinner/363078?productid=10688631): Great roller bag, which just seems to continue to take all of the stuff I want to throw in it.
 
 ## Backpacks
 
 * [RiutBag](https://www.riut.co.uk/): Profile themselves as the original anti-theft backpack. 🤷
-* [Travelpro Crew Executive Choice 2](https://www.amazon.com/Travelpro-Executive-Choice-Friendly-Backpack/dp/B01LSWICRG)
-* [Peak Design Everyday Backpack](https://www.peakdesign.com/products/everyday-backpack?variant=29743300902956) 
-* [REI RuckPack 28](https://www.rei.com/product/118790/rei-co-op-ruckpack-28-pack): Primarily would be a day pack, but works really well as a work backpack, with the ability to be used for a short 2-3 day trip as well. Only downside is if you have a long torso.
+* [Peak Design Everyday Backpack](https://www.peakdesign.com/products/everyday-backpack?variant=29743300902956)
 * [Timbuk2 Q Laptop Backpack](https://www.timbuk2.com/products/3960-q-laptop-backpack-20)
 
 
