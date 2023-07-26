@@ -72,7 +72,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
 * [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free.
 * [Google Codelabs](https://github.com/googlecodelabs/tools): Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
-* [CodePen](https://codepen.io/): CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+* [CodePen](https://codepen.io/trending): CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 * [CodeSandbox](https://codesandbox.io/): Create, share, and get feedback with collaborative sandboxes for rapid web development.
 * [Tuple](https://tuple.app/): The best remote pair programming app on macOS.
 * [RunKit](https://runkit.com/): RunKit is a node playground in your browser.
@@ -117,7 +117,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Nextra](https://nextra.vercel.app/): Write docs with Markdown/MDX and Next.js
 
 ## API documentation
-* [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 * [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
@@ -183,7 +182,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   * [javarevisited](https://medium.com/javarevisited)
   * [better-programming](https://medium.com/better-programming)
 * [The New Stack](https://thenewstack.io/)
-* [Java Magazine](https://blogs.oracle.com/javamagazine/)
 * [Java Code Geeks](https://www.javacodegeeks.com/): including related sites specifically
   * [.NET Code Geeks](https://www.dotnetcodegeeks.com/)
   * [System Code Geeks](https://www.systemcodegeeks.com/)
@@ -200,42 +198,35 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Remote clickers/slide advancers
 
 * [Logitech spotlight](https://www.logitech.com/en-us/product/spotlight-presentation-remote?crid=11)
-* [Logitech Wireless Presenter R400](https://www.amazon.com/Logitech-910-001354-Wireless-Presenter-R400/dp/B002GHBUTK/ref=sr_1_4?ie=UTF8&qid=1509991915&sr=8-4&keywords=slide+clicker&dpID=41m21qlrvuL&preST=_SX300_QL70_&dpSrc=srch&pldnSite=1)
+* [Logitech Wireless Presenter R400](https://www.amazon.com/Logitech-910-001354-Wireless-Presenter-R400/dp/B002GHBUTK)
 
 ## Microphones
 * [Nice comparison of various mics](https://www.youtube.com/watch?v=STS2-IDMaa8)
 * [Blue Snowball Ice](https://www.bluedesigns.com/products/snowball-ice/)
 * [Blue Yeti](https://www.bluedesigns.com/products/yeti/)
-* [SHURE SM7B](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M)
+* [SHURE SM7B](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M?th=1)
 * [UR22C RECORDING PACK](https://new.steinberg.net/audio-interfaces/ur22c-recording-pack/)
 * [Electro-Voice RE320](https://www.amazon.com/Electro-Voice-RE320-Diaphragm-Dynamic-Microphone/dp/B00KCN83VI) AND [Focusrite Scarlett Solo USB Audio Interface](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR6Z1JB)
 * [Rode Procaster Broadcast Vocal Microphone](https://www.amazon.com/Rode-Procaster-Broadcast-Dynamic-Microphone/dp/B001IPUJJI/)
 
 ## Cameras
-* [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam)
+* [Logitech StreamCam](https://www.logitech.com/en-us/products/webcams/streamcam.960-001286.html)
 * [Logitech C922 Pro Stream Webcam](https://www.bhphotovideo.com/c/product/1374480-REG/logitech_960_001087_c922_pro_stream_webcam.html)
 * [NDI HX Camera for iPhone](https://apps.apple.com/us/app/ndi-hx-camera/id1477266080?ls=1)
-* [Sony A5100](https://www.bhphotovideo.com/c/product/1076400-REG/sony_ilce_5100l_b_alpha_a5100_mirrorless_digital.html)
 
 ## Other
-* [HooToo Wireless Travel Router](https://www.amazon.com/gp/product/B074LHG47K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=realitybreak&camp=1789&creative=9325&linkCode=as2&creativeASIN=B074LHG47K&linkId=65128f522b7130b4e421c0860a31fee0)
-* [RAVPower Wireless Travel Router](https://www.amazon.com/RAVPower-Wireless-Portable-Companion-Streamer/dp/B016ZWS9ZE)
 * [Timular time-tracking app](https://timeular.com/?v=7516fd43adaa)
-* [PlanckEZ](https://ergodox-ez.com/pages/planck): Compact, travel-friendly mechanical keyboard.
 * [Mogics Travel Bagel](https://www.mogics.com/3824-2): Compact 4x plug + 2x USB power adapter for any country to any country
 
 
 # Travel Tools
 ## Luggage
 * [Osprey Porter 46](https://www.ospreyeurope.com/shop/eu_en/travel/porter-series): Works as a backpack style suit case, can easily fit clothes for an entire week when expanded while being able to compress for daily use (laptop, accessories).
-* [Travelpro Maxlite 5 21"](https://www.ebags.com/product/travelpro/maxlite-5-21-expandable-carry-on-spinner/363078?productid=10688631): Great roller bag, which just seems to continue to take all of the stuff I want to throw in it.
 
 ## Backpacks
 
 * [RiutBag](https://www.riut.co.uk/): Profile themselves as the original anti-theft backpack. 🤷
-* [Travelpro Crew Executive Choice 2](https://www.amazon.com/Travelpro-Executive-Choice-Friendly-Backpack/dp/B01LSWICRG)
 * [Peak Design Everyday Backpack](https://www.peakdesign.com/products/everyday-backpack?variant=29743300902956)
-* [REI RuckPack 28](https://www.rei.com/product/118790/rei-co-op-ruckpack-28-pack): Primarily would be a day pack, but works really well as a work backpack, with the ability to be used for a short 2-3 day trip as well. Only downside is if you have a long torso.
 * [Timbuk2 Q Laptop Backpack](https://www.timbuk2.com/products/3960-q-laptop-backpack-20)
 
 
