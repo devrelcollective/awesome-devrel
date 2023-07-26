@@ -72,7 +72,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
 * [Glitch.com](https://glitch.com): Glitch is a really useful tool to collaborate, code and ship apps on the web. It offers value for DevRel folks especially in lowering the adoption barrier, creating embeddable running-code in documentation/blogs and live coding for free.
 * [Google Codelabs](https://github.com/googlecodelabs/tools): Codelabs are interactive instructional tutorials, which can be authored in Google Docs using some simple formatting conventions. You can also author codelabs using markdown syntax.This is very handy during workshops and enablement sessions.
-* [CodePen](https://codepen.io/trending): CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+* [CodePen](https://codepen.io/trending): CodePen.io is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 * [CodeSandbox](https://codesandbox.io/): Create, share, and get feedback with collaborative sandboxes for rapid web development.
 * [Tuple](https://tuple.app/): The best remote pair programming app on macOS.
 * [RunKit](https://runkit.com/): RunKit is a node playground in your browser.
@@ -97,7 +97,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
 * [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
 * [flat.social](https://flat.social/): Fun & highly interactive virtual spaces for online meetings & socials
-* [Other](https://www.g2.com/categories/virtual-event-platforms)
 * [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit): Free, open-source template using Next.js and Vercel
 
 ## Analytics and CRM
