@@ -46,6 +46,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Community forums
 * [discourse.org](https://www.discourse.org): Open-source, community-minded forum software
 * [vanillaforums.com](https://vanillaforums.com/en/software/): Vanilla offers a highly brandable and extensible solution for support, Q&A and ideation forums.
+* [Answer](https://answer.dev/): A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
 
 ## Static sites generator
 * [netlify.com](https://www.netlify.com/): Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.
