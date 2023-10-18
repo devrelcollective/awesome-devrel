@@ -254,7 +254,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Blog: What 3rd party events are interesting for my DevRel organisation?](https://dev.to/floord/what-3rd-party-events-are-interesting-for-my-company-1p14) by @floord
 * [Blog: How to make the most out of sponsoring an event](https://dev.to/floord/how-to-make-the-most-out-of-sponsoring-an-event-2jhk) by @floord
 * [A corporate DevRel program for honoring open source contributions](https://github.com/jansche/oss-advisors)
-* [CommonRoom](https://www.commonroom.io/) - community growth platform
+* [CommonRoom](https://www.commonroom.io/): Community growth platform
 
 ## Diversity, Equity and Inclusion
 
