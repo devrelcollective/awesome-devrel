@@ -61,6 +61,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [middleman](https://middlemanapp.com): The static site generator behind [Slate](https://github.com/slatedocs/slate)
 * [Vercel](https://vercel.com): Deploy any static site (Next.js, Jekll, Hugo, Gatsby, etc) for free.
 * [Render](https://render.com): Free static sites. Global CDN, managed TLS certs, PR previews, custom domain or `.onrender.com` subdomain. [More details](https://render.com/docs/static-sites).
+* [Kinsta](https://kinsta.com/static-site-hosting/): Free for static site hosting for pre-built static websites and modern static site generators using Node.js. Integrates with GitHub, GitLab, and Bitbucket, deploy to the Edge at 260+ CDN locations.
 
 
 ## Podcasting
