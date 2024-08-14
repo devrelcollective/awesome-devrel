@@ -115,13 +115,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [docusaurus.io](https://v2.docusaurus.io/)
 * [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
 * [Nextra](https://nextra.vercel.app/): Write docs with Markdown/MDX and Next.js
+* [Mintlify](https://mintlify.com/): Modern standard for public facing documentation. Beautiful out of the box, easy to maintain, and optimized for user engagement.
 
 ## API documentation
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 * [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
 * [Insomnia](https://insomnia.rest/): Deliver high quality APIs through standards and collaboration with the Insomnia API design platform.
-
 
 ## Product feedback
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
