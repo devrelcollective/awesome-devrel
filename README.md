@@ -50,7 +50,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 ## Static sites generator
 * [netlify.com](https://www.netlify.com/): Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you need. Get started for free.
-* [netlifycms](https://www.netlifycms.org/): Open source content management for your Git workflow
 * [Cloudflare Pages](https://pages.cloudflare.com/): Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
 * [GitHub Pages](https://docs.github.com/en/pages): You can create a website directly from a repository on GitHub.com.
 * [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview): Streamlined full-stack development from source code to global high availability
@@ -107,7 +106,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [developerhub.io](http://developerhub.io/): Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.
 * [readme.io](http://readme.io/): Create beautiful product and API documentation with our developer friendly platform.
 * [apimatic.io](https://apimatic.io/): Developer Experience Platform for your Public/Private/Internal APIs
-* [slate](https://github.com/lord/slate): Beautiful static documentation for your API (slate example: [developer.tradegecko.com](http://developer.tradegecko.com/))
 * [readthedocs.org](https://readthedocs.org/): Create, host, and browse documentation.
 * [widdershins](https://github.com/Mermade/widdershins): OpenApi / Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown
 * [gitbook.com](https://github.com/GitbookIO/gitbook): Modern documentation format and toolchain using Git and Markdown
@@ -115,13 +113,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [docusaurus.io](https://v2.docusaurus.io/)
 * [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
 * [Nextra](https://nextra.vercel.app/): Write docs with Markdown/MDX and Next.js
+* [Mintlify](https://mintlify.com/): Modern standard for public facing documentation. Beautiful out of the box, easy to maintain, and optimized for user engagement.
 
 ## API documentation
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 * [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
 * [Insomnia](https://insomnia.rest/): Deliver high quality APIs through standards and collaboration with the Insomnia API design platform.
-
 
 ## Product feedback
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
@@ -242,9 +240,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [GitHub Open Source Guides](https://opensource.guide/): Open Source Guides is a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 * [Contributor Covenant](https://www.contributor-covenant.org/): A Code of Conduct for Open Source Communities
 * [Commsor Blog](https://www.commsor.com/blog): Thoughts and insights on community, marketing, and creating connections.
-* [Community Club Newsletter](https://www.community.club/newsletter)
 * [CMX Newsletter](https://cmxhub.com/subscribe/)
-* [Orbit Community Blog](https://orbit.love/blog-category/community)
 * [Blog: What 3rd party events are interesting for my DevRel organisation?](https://dev.to/floord/what-3rd-party-events-are-interesting-for-my-company-1p14) by @floord
 * [Blog: How to make the most out of sponsoring an event](https://dev.to/floord/how-to-make-the-most-out-of-sponsoring-an-event-2jhk) by @floord
 * [A corporate DevRel program for honoring open source contributions](https://github.com/jansche/oss-advisors)
