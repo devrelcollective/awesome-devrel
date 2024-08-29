@@ -102,6 +102,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Analytics and CRM
 * [Moesif Developer Relations Management](https://www.moesif.com/solutions/developer-relations): Understand API adoption and keep developers informed automatically.
 * [Savannah CRM](https://www.savannahhq.com): Understand your Community better across multiple sources, track engagement and contributions.
+* [GetSphere](https://getsphere.dev): An open source, community-driven platform that empowers you to track, engage, and grow your community across multiple platforms. Built on the foundation of Crowd.dev, GetSphere is committed to putting community first.
 
 ## Developer portals and documentation
 * [developerhub.io](http://developerhub.io/): Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.
