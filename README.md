@@ -166,6 +166,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [sli.do](https://sli.do/): A simple platform that enables live polling, crowdsourcing questions and brainstorming ideas.A mobile-friendly interface that lets participants join via a custom event-code
 
 ## CFPs and Speaking Resources
+* [Ben's CFP Tracker](https://cfp.bendechr.ai/): Track and manage your conference speaking opportunities. Filter by location, manage submission status, and (hopefully) never miss a CFP deadline.
 * [Confs.tech](https://confs.tech/): [Open source](https://github.com/tech-conferences/confs.tech), shows both conferences coming soon as well as CFPs. They also have an email newsletter.
 * [CallingAllPapers](https://callingallpapers.com/): Open source aggregator that grabs conferences from several sources. They also have a free API.
 * [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking): A big open source list of conference speaking tips.
