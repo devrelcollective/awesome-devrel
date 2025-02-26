@@ -85,7 +85,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 ## Meeting scheduler
 * [claralabs.com](https://claralabs.com/): Clara is your partner in doing great work - a virtual employee that schedules your meetings.
 * [calendly.com](https://calendly.com/): Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.
-* [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
 * [Cal.com](https://cal.com/): Open source Calendly
 
@@ -96,7 +95,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Gather.town](https://gather.town/): Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life
 * [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
 * [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
-* [flat.social](https://flat.social/): Fun & highly interactive virtual spaces for online meetings & socials
 * [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit): Free, open-source template using Next.js and Vercel
 
 ## Analytics and CRM
