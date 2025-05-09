@@ -118,6 +118,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
 * [Nextra](https://nextra.vercel.app/): Write docs with Markdown/MDX and Next.js
 * [Mintlify](https://mintlify.com/): Modern standard for public facing documentation. Beautiful out of the box, easy to maintain, and optimized for user engagement.
+* [Fern](https://link.buildwithfern.com/UnWNAxb): Start with an API spec. Generate SDKs in multiple languages and interactive API Documentation tailored to your brand.
 
 ## API documentation
 * [stoplight.io](http://stoplight.io/): StopLight, providing engineering teams with the best way to document, test, and build web APIs
