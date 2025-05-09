@@ -54,6 +54,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [GitHub Pages](https://docs.github.com/en/pages): You can create a website directly from a repository on GitHub.com.
 * [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview): Streamlined full-stack development from source code to global high availability
 * [datocms.com](https://www.datocms.com/): DatoCMS is an API-based administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
+* [Astro](https://astro.build/): Modern static site generator that is fast and super flexible. Free / OSS.
 * [gohugo.io](https://gohugo.io/): Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 * [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
 * [gatsby](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
@@ -68,6 +69,9 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [mixlr.com](https://mixlr.com/): Mixlr is a simple way to share live audio online. Broadcast using any source and invite people to listen and chat in real-time.
 * [zencastr.com](https://zencastr.com/): Zencastr is a web app to record your remote interviews in studio quality with a separate track per guest
 * [transistor.fm](https://transistor.fm/): Transistor provides podcast hosting and analytics and supports multiple podcasts under one account fee so you can spin up as many podcasts as you want. In addition to simple instructions for submitting your RSS feed to Spotify, Apple and other big directories, you get a customizable website, shareable and embeddable player, and API access. Private Podcasts are great addons for Memberships or Patreon Perks.
+* [Stream Yard](https://streamyard.com/): Online tool to record and (live)stream podcasts to multiple destinations.
+* [Riverside](https://riverside.fm/): Online tool to record and (live)stream podcasts to multiple destinations. Has text-based video editing and extensive AI features.
+* [Descript](https://descript.com/): Online tool to record and (live)stream podcasts to multiple destinations. Has text-based video editing and extensive AI features.
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
@@ -128,6 +132,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [HotJar](https://www.hotjar.com/): Record and replay onboarding flows. Cheaper than FullStory.
 
 ## GIF creation
+* [Cleanshot X](https://cleanshot.com/) (for Mac): Easily capture your screen in images, GIFs and videos. Powerful tooling for making good-looking screenshots.
 * [Cockos LICEcap](https://www.cockos.com/licecap/) (for Windows): LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
 * [EZGif](https://ezgif.com/): Online Gif editor - crop, add text, trim, add effects, censor - all online.
 * [gifcurry](https://github.com/lettier/gifcurry) (for Linux/Mac): Gif editor to add text, trim, and add other effects.
@@ -136,6 +141,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) (for Mac): Allows you create and edit GIFs through screeen capture, also can add captions and control pixel size
 * [Kap](https://getkap.co) (for Mac): Capture screen areas and save as GIF, MP4, etc. Free and open source.
 * [Peek](https://github.com/phw/peek) (for Linux): Capture screen area and save as GIF or video formats.
+* [Screen studios](https://screen.studio/) (for Mac): Super slick screen recorder for demo videos, can also export GIFs.
 * [terminalizer](https://github.com/faressoft/terminalizer): Record terminal sessions and save to GIF.
 
 ## Video recording and live streaming
@@ -144,6 +150,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [screenflow.com](https://www.telestream.net/screenflow/): Video editing and screen recording software for Mac
 * [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits.
 * [Loom](https://loom.com): Record your screen, audio and camera in one click. Loom hosts the video for you and you can easily share the link with publicly or with colleagues.
+* [Screen studios](https://screen.studio/) (for Mac): Screen + video recorder, automatically animates cursor movement and zooming for high quality demos.
 * [StreamYard](https://streamyard.com/): StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.
 * [Restream](https://restream.io/): Restream allows you to stream live to 30+ social platforms at once.
 * [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
