@@ -86,10 +86,10 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 NOTE: The following pros/cons were copied from [this Reddit thread](https://www.reddit.com/r/podcasting/comments/1hpta0m/best_podcast_hosting_platforms_proscons/)
 
-* [RSS.com](http://rss.com/) – PROS: • Unlimited storage/bandwidth • IAB certified analytics • Free AI transcripts • One-click YouTube conversion • Auto-distribution to major platforms • Multiple monetization options • Affordable pricing with education discounts CONS: • No mobile app (web interface works on mobile) • Free plan has limitations
-* [Buzzsprout](https://www.buzzsprout.com) – PROS: • User-friendly interface • Good analytics CONS: • Storage limitations • Episodes deleted after 90 days on free plan • Pricier than RSS.com for similar features
-* [Spotify for Creators](https://creators.spotify.com) – PROS: • Free hosting • In-app recording/editing CONS: • Can delete podcasts without warning • High sponsorship fees (30%) • Limited analytics/support • Can use your content to promote Spotify
-* [Libsyn](https://libsyn.com) – PROS: • Established reputation • Reliable hosting CONS: • Very restrictive storage • Basic analytics not included in cheap plans • Higher price for fewer features
+* [RSS.com](http://rss.com/) – PROS: Unlimited storage/bandwidth, IAB certified analytics, Free AI transcripts, One-click YouTube conversion, Auto-distribution to major platforms, Multiple monetization options, Affordable pricing with education discounts CONS:, No mobile app (web interface works on mobile), Free plan has limitations
+* [Buzzsprout](https://www.buzzsprout.com) – PROS: User-friendly interface, Good analytics CONS: Storage limitations, Episodes deleted after 90 days on free plan, Pricier than RSS.com for similar features
+* [Spotify for Creators](https://creators.spotify.com) – PROS: Free hosting, In-app recording/editing CONS:, Can delete podcasts without warning, High sponsorship fees (30%), Limited analytics/support, Can use your content to promote Spotify
+* [Libsyn](https://libsyn.com) – PROS: Established reputation, Reliable hosting CONS:, Very restrictive storage, Basic analytics not included in cheap plans, Higher price for fewer features
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
