@@ -27,8 +27,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 - [Hardware](#hardware)
   - [Remote clickers/slide advancers](#remote-clickersslide-advancers)
   - [Microphones](#microphones)
+  - [Mixers and other audio](#mixers-and-other-audio)
   - [Cameras](#cameras)
+  - [Gimbels, lighting, other video](#gimbels-lighting-and-other-video)
   - [Other](#other-1)
+- [Software](#software)
+  - [Audio Editing](#audio-editing)
+  - [Video Editing](video-editing)
 - [Travel Tools](#travel-tools)
   - [Luggage](#luggage)
   - [Backpacks](#backpacks)
@@ -63,7 +68,6 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Render](https://render.com): Free static sites. Global CDN, managed TLS certs, PR previews, custom domain or `.onrender.com` subdomain. [More details](https://render.com/docs/static-sites).
 * [Kinsta](https://kinsta.com/static-site-hosting/): Free static site hosting for pre-built static websites and modern static site generators using Node.js. Integrates with GitHub, GitLab, and Bitbucket, deploy to the Edge at 260+ CDN locations.
 
-
 ## Podcasting
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
 * [mixlr.com](https://mixlr.com/): Mixlr is a simple way to share live audio online. Broadcast using any source and invite people to listen and chat in real-time.
@@ -72,6 +76,20 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Stream Yard](https://streamyard.com/): Online tool to record and (live)stream podcasts to multiple destinations.
 * [Riverside](https://riverside.fm/): Online tool to record and (live)stream podcasts to multiple destinations. Has text-based video editing and extensive AI features.
 * [Descript](https://descript.com/): Online tool to record and (live)stream podcasts to multiple destinations. Has text-based video editing and extensive AI features.
+* [Acast](https://www.acast.com/en-us)
+* [Spreaker](https://www.spreaker.com)
+* [PodBean](https://www.podbean.com)
+* [Simplecast](https://www.simplecast.com/) - Good for teams
+* [Blubrry](https://blubrry.com/) - Integrates well with WordPress
+* [Captivate](https://www.captivate.fm/) - Growth tools for audience building
+* [Castos](https://castos.com/) - Unlimited storage and downloads
+
+NOTE: The following pros/cons were copied from [this Reddit thread](https://www.reddit.com/r/podcasting/comments/1hpta0m/best_podcast_hosting_platforms_proscons/)
+
+* [RSS.com](http://rss.com/) – PROS: Unlimited storage/bandwidth, IAB certified analytics, Free AI transcripts, One-click YouTube conversion, Auto-distribution to major platforms, Multiple monetization options, Affordable pricing with education discounts CONS:, No mobile app (web interface works on mobile), Free plan has limitations
+* [Buzzsprout](https://www.buzzsprout.com) – PROS: User-friendly interface, Good analytics CONS: Storage limitations, Episodes deleted after 90 days on free plan, Pricier than RSS.com for similar features
+* [Spotify for Creators](https://creators.spotify.com) – PROS: Free hosting, In-app recording/editing CONS:, Can delete podcasts without warning, High sponsorship fees (30%), Limited analytics/support, Can use your content to promote Spotify
+* [Libsyn](https://libsyn.com) – PROS: Established reputation, Reliable hosting CONS:, Very restrictive storage, Basic analytics not included in cheap plans, Higher price for fewer features
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
@@ -181,6 +199,13 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Tech Daily CFP](https://mailchi.mp/f2e4ba861211/techdailycfp): Sends a daily newsletter of CFPs.
 * [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) - A list of worldwide conferences since 2017 with date and location
 * [Sessionize](https://sessionize.com/) - Awesome tool for Call for Papers, Schedule and Speaker Management.
+* [Leon Adato's CFP Round-Up](https://www.adatosystems.com/cfp-tracker/) - updated weekly, with the option to sign up for email updates.
+* [WikiCFP](http://www.wikicfp.com/) - Calls For Papers in science and technology fields.
+* [DevOpsDays](https://devopsdays.org/speaking) - Cental location to see all DevOpsDays speaking opportunities
+* [DiversifyTech newsletter](https://www.diversifytech.com/join) - A job listing email that also includes CFP's at the bottom of the weekly post.
+* [Network Startup Resource Center](https://nsrc.org/calendar/) - This calendar documents Internet development events that focus on educational and technical training programs. Conferences that focus on Internet operations and Internet standards development are also welcome.
+* [KDNuggets](https://www.kdnuggets.com/meetings/index.html) - Events on Data Science, Machine Learning, AI & Analytics
+* [Milen Dyankov's CFP tracker](https://milendyankov.com/ConferenceTracker/#/list) - Just what the title says.
 
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
@@ -196,7 +221,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
   * [System Code Geeks](https://www.systemcodegeeks.com/)
   * [Web Code Geeks](https://www.webcodegeeks.com/)
 * [jaxenter](https://jaxenter.com/)
-
+* [Dev.to](https://dev.to) - site that allows you to self-publish either personal or corporate content.
 
 ## Other
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
@@ -216,15 +241,33 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [UR22C RECORDING PACK](https://new.steinberg.net/audio-interfaces/ur22c-recording-pack/)
 * [Electro-Voice RE320](https://www.amazon.com/Electro-Voice-RE320-Diaphragm-Dynamic-Microphone/dp/B00KCN83VI) AND [Focusrite Scarlett Solo USB Audio Interface](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR6Z1JB)
 * [Rode Procaster Broadcast Vocal Microphone](https://www.amazon.com/Rode-Procaster-Broadcast-Dynamic-Microphone/dp/B001IPUJJI/)
+* [FIFINE Dynamic Microphone](https://fifinemicrophone.com/products/fifine-k688-studio-microphone)
+* [Hollyland Lark M2 Wireless Lavalier Microphone](https://store.hollyland.com/products/lark-m2)
+
+## Mixers and other audio
+* [FIFINE Gaming audio mixer](https://fifinemicrophone.com/products/fifine-ampligame-sc3)
 
 ## Cameras
 * [Logitech StreamCam](https://www.logitech.com/en-us/products/webcams/streamcam.960-001286.html)
 * [Logitech C922 Pro Stream Webcam](https://www.bhphotovideo.com/c/product/1374480-REG/logitech_960_001087_c922_pro_stream_webcam.html)
 * [NDI HX Camera for iPhone](https://apps.apple.com/us/app/ndi-hx-camera/id1477266080?ls=1)
+* [Logitech Brio](https://www.logitech.com/en-us/products/webcams/brio-4k-hdr-webcam.html) - up to 4k videos, free-standing or camera-mount
+
+## Gimbels lighting and other video
+* [Teleprompter 4.0](https://www.amazon.com/dp/B08D3VRCNB) - requires tablet or phone
+* [Elgato Stream Deck](https://www.elgato.com/us/en/p/stream-deck) - automation station.
 
 ## Other
 * [Timular time-tracking app](https://timeular.com/?v=7516fd43adaa)
 * [Mogics Travel Bagel](https://www.mogics.com/3824-2): Compact 4x plug + 2x USB power adapter for any country to any country
+
+# Software
+## Audio Editing
+* [Audacity](https://www.audacityteam.org)
+* [Rev](https://www.rev.com) - Automatic audio transcription, with the ability to then edit and output as TXT, SRT, ASS, or DOC. 
+
+## Video Editing
+* [KdenLive](https://kdenlive.org)
 
 
 # Travel Tools
@@ -236,6 +279,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [RiutBag](https://www.riut.co.uk/): Profile themselves as the original anti-theft backpack. 🤷
 * [Peak Design Everyday Backpack](https://www.peakdesign.com/products/everyday-backpack?variant=29743300902956)
 * [Timbuk2 Q Laptop Backpack](https://www.timbuk2.com/products/3960-q-laptop-backpack-20)
+* [Targus Drifter II](https://us.targus.com/products/drifter-ii-17-inch-laptop-backpack-tsb239us) - Good, cheap, durable laptop with lots of pockets. 
 
 
 ## Tips & Tricks
