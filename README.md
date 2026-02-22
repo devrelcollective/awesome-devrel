@@ -182,6 +182,11 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) - A list of worldwide conferences since 2017 with date and location
 * [Sessionize](https://sessionize.com/) - Awesome tool for Call for Papers, Schedule and Speaker Management.
 
+## Developer Reach & Advertising
+* [daily.dev](https://daily.dev): Developer content platform with 1M+ developers. Offers native feed ads and newsletter sponsorships to reach software engineers. [Advertise](https://business.daily.dev)
+* [Carbon Ads](https://www.carbonads.net/): Developer-focused ad network serving tech audiences across blogs and documentation sites.
+* [EthicalAds](https://www.ethicalads.io/): Privacy-focused advertising for developer audiences, popular in open source documentation.
+
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
 * [hackernoon](https://www.hackernoon.com/)
