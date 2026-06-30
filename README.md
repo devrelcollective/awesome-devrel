@@ -181,6 +181,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Tech Daily CFP](https://mailchi.mp/f2e4ba861211/techdailycfp): Sends a daily newsletter of CFPs.
 * [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda/) - A list of worldwide conferences since 2017 with date and location
 * [Sessionize](https://sessionize.com/) - Awesome tool for Call for Papers, Schedule and Speaker Management.
+* [awesome-developer-conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
 
 ## Websites to Publish Articles
 * [dzone](https://dzone.com/)
