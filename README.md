@@ -72,6 +72,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Stream Yard](https://streamyard.com/): Online tool to record and (live)stream podcasts to multiple destinations.
 * [Riverside](https://riverside.fm/): Online tool to record and (live)stream podcasts to multiple destinations. Has text-based video editing and extensive AI features.
 * [Descript](https://descript.com/): Online tool to record and (live)stream podcasts to multiple destinations. Has text-based video editing and extensive AI features.
+* [Awesome Developer Podcasts](https://github.com/Infrasity-Labs/awesome-developer-podcasts): A community-curated directory of top podcasts for software engineers, developer advocates, and tech founders.
 
 ## Workshop training
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training): This repository contains materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration.
@@ -273,6 +274,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 * [DevRelCon](https://www.youtube.com/DevRel)
 * [CMX Summit](https://cmxhub.com/summit/)
+* [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) A daily-updated directory of developer, cloud-native, and open-source conferences worldwide.
 
 # LICENSE
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International License</a>.
