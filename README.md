@@ -199,6 +199,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 
 
 ## Other
+
+* [FoxData DevRel Content Hub](https://github.com/benzhang568858050-cell/App-data-IOS-GP-): Open-source DevRel content automation — app market data to Dev.to publishing via GitHub Actions (self-hosted, SEO/GEO-optimized)
 * [earthclassmail.com](https://www.earthclassmail.com/): Get the best virtual mail and address solution for your business. Now you can scan, sync to cloud storage, deposit checks and much more. Try it risk-free
 
 # Hardware
