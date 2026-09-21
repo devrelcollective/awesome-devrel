@@ -125,6 +125,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [openapis.org](https://www.openapis.org/): Open API Initiative
 * [Postman](https://www.postman.com/api-documentation-generator/): Use Postman's API documentation feature to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
 * [Insomnia](https://insomnia.rest/): Deliver high quality APIs through standards and collaboration with the Insomnia API design platform.
+* [Sourced](https://sourced.sh/): Generate hosted API docs, TypeScript/Python SDKs, llms.txt and MCP servers from an OpenAPI spec.
 
 ## Product feedback
 * [Haxor](https://haxor.sh/platform/): Haxor is the platform for developer experience feedback. Learn how to improve your DX by watching developers build with your product.
