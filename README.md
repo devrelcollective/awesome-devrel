@@ -151,6 +151,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [screenflow.com](https://www.telestream.net/screenflow/): Video editing and screen recording software for Mac
 * [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits.
 * [Loom](https://loom.com): Record your screen, audio and camera in one click. Loom hosts the video for you and you can easily share the link with publicly or with colleagues.
+* [Vertov](https://vertov.app/): Record product demos and tutorials in the browser, edit by transcript, and share a link viewers can open without an account.
 * [Screen studios](https://screen.studio/) (for Mac): Screen + video recorder, automatically animates cursor movement and zooming for high quality demos.
 * [StreamYard](https://streamyard.com/): StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.
 * [Restream](https://restream.io/): Restream allows you to stream live to 30+ social platforms at once.
