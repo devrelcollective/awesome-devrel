@@ -152,6 +152,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [GitDuck.com](https://gitduck.com/): Online screen recording and live streaming tool with built-in code sharing. Create instantly shareable videos linked to commits.
 * [Loom](https://loom.com): Record your screen, audio and camera in one click. Loom hosts the video for you and you can easily share the link with publicly or with colleagues.
 * [Screen studios](https://screen.studio/) (for Mac): Screen + video recorder, automatically animates cursor movement and zooming for high quality demos.
+* [Valmera](https://valmera.io/use-cases/saas-demos#edit-existing-recordings): Record a public website walkthrough or upload an existing tutorial, revise the cut in chat, and export an MP4. AI editing requires a subscription.
 * [StreamYard](https://streamyard.com/): StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.
 * [Restream](https://restream.io/): Restream allows you to stream live to 30+ social platforms at once.
 * [Zoom.us](https://zoom.us/): Great service for hold and record videocalls. Also saves any chat messages into a separate file.
